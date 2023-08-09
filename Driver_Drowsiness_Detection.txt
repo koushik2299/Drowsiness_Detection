@@ -68,7 +68,7 @@ from time import time
 
 
 #define size to which images are to be resized
-IMAGE_SIZE = [224, 224] # feel free to change depending on dataset
+IMAGE_SIZE = [224, 224] 
 
 # training config:
 epochs = 500
